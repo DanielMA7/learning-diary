@@ -6,5 +6,3 @@ Daily journal to log my learnings
 
 Today I started a Daily Diary for my learnings.
 
-What I learned today:
--
