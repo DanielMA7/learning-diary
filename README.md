@@ -15,10 +15,10 @@ Tommorrow I plan to:
 - Create a repository for the Hobby page
 - Start using DOM manipulation to finish the last hobby page task.
 
-##Sunday 30th October 2022
+## Sunday 30th October 2022
 Today I familiarised myself with committing from VScode and using git.
 
-##Monday 31st October 2022
+## Monday 31st October 2022
 Today I had to revist flex boxes and practice using (https://flexboxfroggy.com/)
 I was also able to check off all of the check boxes for the Hobby Pages HTML learnings
 
