@@ -12,7 +12,7 @@ Today I started to experiment with DOM manipulation and incoporating JS into my 
 
 **Tommorrow I plan to:**
 - Finish the design of my Hobby Page (HTML & CSS)
-~~- Create a repository for the Hobby page~~
+- ~~Create a repository for the Hobby page~~
 
 ## Sunday 30th October 2022
 Today I familiarised myself with committing from VScode and using git.
