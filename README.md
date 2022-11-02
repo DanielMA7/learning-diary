@@ -43,5 +43,6 @@ In addition to this I used Javascript to create HTML elements and then using App
 - Familiarise myself with the process of making a page responsive
 - Starting my comment box project
 - Familiarise myself with the using the terminal in VScode
+- Deploy my Hobby pages site live using Github Pages
 
 
