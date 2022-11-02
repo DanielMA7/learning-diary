@@ -42,5 +42,6 @@ In addition to this I used Javascript to create HTML elements and then using App
 **Tommorow I plan to:**
 - Familiarise myself with the process of making a page responsive
 - Starting my comment box project
+- Familiarise myself with the using the terminal in VScode
 
 
