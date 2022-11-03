@@ -45,4 +45,7 @@ In addition to this I used Javascript to create HTML elements and then using App
 - Familiarise myself with the using the terminal in VScode
 - Deploy my Hobby pages site live using Github Pages
 
+## Thursday 3rd November 2022
+- Today I was able to familiarise myself with using the terminal in VScode
+
 
