@@ -51,4 +51,12 @@ In addition to this I used Javascript to create HTML elements and then using App
 **Tomorrow I plan to:**
 - Finish all the tasks I wasn't able to today
 
+## Friday 4th November 2022
+- Today I was able to make a start on my comment box project and figuring out the basic layout
+
+**Tomorrow I plan to:**
+- Make my Hobby page responsive
+- Deploy my Hobby page using Github live pages
+- Stylize my comment box project
+
 
