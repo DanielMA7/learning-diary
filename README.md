@@ -57,6 +57,6 @@ In addition to this I used Javascript to create HTML elements and then using App
 **Tomorrow I plan to:**
 - Make my Hobby page responsive
 - Deploy my Hobby page using Github live pages
-- Stylize my comment box project
+- Stylize my comment box project using CSS
 
 
