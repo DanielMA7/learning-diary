@@ -59,4 +59,6 @@ In addition to this I used Javascript to create HTML elements and then using App
 - Deploy my Hobby page using Github live pages
 - Stylize my comment box project using CSS
 
+## Saturday 5th November 2022
+Today I was able to learn more about DOM manipulation and I was able to learn more about using CSS to stylise my pages. I used selectors to make my page a little more professional.
 
