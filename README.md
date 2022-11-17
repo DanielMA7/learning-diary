@@ -62,3 +62,12 @@ In addition to this I used Javascript to create HTML elements and then using App
 ## Saturday 5th November 2022
 Today I was able to learn more about DOM manipulation and I was able to learn more about using CSS to stylise my pages. I used selectors to make my page a little more professional.
 
+## Friday 11th November 2022
+Today I was able to create my comments box general design
+
+## Saturday 12th November 2022
+Today I learned how to use querySelector to access display the date
+I also used setInterval to make sure the date is constantly updating
+
+## Sunday 13th November 2022
+I learned how to use JS objects
