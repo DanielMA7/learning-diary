@@ -40,8 +40,8 @@ Today I used querySelectors to assign HTML elements to a variable.
 In addition to this I used Javascript to create HTML elements and then using Append I was able to display the element to a webpage.
 
 **Tomorrow I plan to:**
-- Familiarise myself with the process of making a page responsive
-- Starting my comment box project
+- ~~Familiarise myself with the process of making a page responsive~~
+- ~~Starting my comment box project~~
 - ~~Familiarise myself with the using the terminal in VScode~~
 - Deploy my Hobby pages site live using Github Pages
 
@@ -49,7 +49,7 @@ In addition to this I used Javascript to create HTML elements and then using App
 - Today I was able to familiarise myself with using the terminal in VScode
 
 **Tomorrow I plan to:**
-- Finish all the tasks I wasn't able to today
+- ~~Finish all the tasks I wasn't able to today~~
 
 ## Friday 4th November 2022
 - Today I was able to make a start on my comment box project and figuring out the basic layout
@@ -60,14 +60,14 @@ In addition to this I used Javascript to create HTML elements and then using App
 - Stylize my comment box project using CSS
 
 ## Saturday 5th November 2022
-Today I was able to learn more about DOM manipulation and I was able to learn more about using CSS to stylise my pages. I used selectors to make my page a little more professional.
+- Today I was able to learn more about DOM manipulation and I was able to learn more about using CSS to stylise my pages. I used selectors to make my page a little more professional.
 
 ## Friday 11th November 2022
-Today I was able to create my comments box general design
+- Today I was able to create my comments box general design
 
 ## Saturday 12th November 2022
-Today I learned how to use querySelector to access display the date
-I also used setInterval to make sure the date is constantly updating
+- Today I learned how to use querySelector to access display the date
+- I also used setInterval to make sure the date is constantly updating
 
 ## Sunday 13th November 2022
-I learned how to use JS objects
+- I learned how to use JS objects
