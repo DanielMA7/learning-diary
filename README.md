@@ -74,3 +74,9 @@ In addition to this I used Javascript to create HTML elements and then using App
 
 ## Tuesday 6th December 2022
 Today I decided to revisit the basics of JavaScript to strengthen my foundations.
+
+I revisited:
+- Data types
+- Arithmetic Operators
+- Assignment Operators
+- String Properties and Methods
