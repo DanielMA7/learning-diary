@@ -80,3 +80,5 @@ I revisited:
 - Arithmetic Operators
 - Assignment Operators
 - String Properties and Methods
+
+Have a look at my "JavaScript Notes" : [HERE](https://www.evernote.com/shard/s608/sh/14db3bf8-32ff-3606-ffdc-6608bcd101c9/ced76a61737eb3ddf2549539dd0a91ba)
