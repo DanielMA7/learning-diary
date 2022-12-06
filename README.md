@@ -71,3 +71,6 @@ In addition to this I used Javascript to create HTML elements and then using App
 
 ## Sunday 13th November 2022
 - I learned how to use JS objects
+
+## Tuesday 6th December 2022
+Today I decided to revisit the basics of JavaScript to strengthen my foundations.
